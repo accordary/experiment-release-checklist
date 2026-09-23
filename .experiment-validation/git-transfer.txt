@@ -1,2 +1,2 @@
 Researcher Git transport validation fixture; not employee-delivered application code.
-Stage: 1
+Stage: 2
